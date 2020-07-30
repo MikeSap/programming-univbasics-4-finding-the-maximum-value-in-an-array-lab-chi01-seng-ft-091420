@@ -5,7 +5,7 @@ high = -1
     if array[i] > high
       high = array[i]
     end
-    i =+ 1
+    i += 1
   end
   high
 end
